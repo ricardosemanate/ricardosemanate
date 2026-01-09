@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Bienvenido/a! Soy Ricardo Semanate
 
-<!--
-**ricardosemanate/ricardosemanate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Estoy incursionando en el mundo de la ciencia de datos, practicando y construyendo pequeños proyectos de manera individual, acá podrás encontrar algunos de mis trabajos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* 🛠️ Dominio de herramientas como Python, JupyterNotebook, Got, GitHub, Pandas, Matplotlib, Seaborn, Plotly, SQL, Scikit_learn, Keras, LightGBM, XBoost, pymystem entre otras.
+
+<details>
+<summary><b>▶ ¡Conectémonos y charlemos! Abierto a todo.</b></summary>
+ricardosemanate@hotmail.com<br> 
++57 3186594920
+</details>
+
+
