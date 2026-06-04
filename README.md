@@ -24,4 +24,4 @@ Me apasiona desentrañar patrones en grandes volúmenes de datos y transformarlo
 ---
 
 ### 📫 ¡Conectémonos y charlemos!
-* 💼 **[LinkedIn](https://www.linkedin.com/in/john-ricardo-semanate-garcia-0a0b67272):** Abierto a conectar con la comunidad, debatir sobre IA y explorar nuevas oportunidades globales.
+* 💼 **[LinkedIn](https://www.linkedin.com/in/john-ricardo-semanate-garcia/?locale=en):** Abierto a conectar con la comunidad, debatir sobre IA y explorar nuevas oportunidades globales.
