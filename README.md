@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner github.png" alt="Ricardo Semanate - Data Scientist Banner" width="100%">
+</p>
+
 # ¡Bienvenido/a! Soy Ricardo Semanate 👋
 
 Soy **Científico de Datos (Data Scientist)** enfocado en la construcción de soluciones analíticas y modelos predictivos que optimizan la toma de decisiones estratégicas. Mi formación híbrida en Diseño Industrial me aporta una perspectiva única: diseñar arquitecturas de información que son tan precisas técnicamente como funcionales y memorables para el usuario final.
